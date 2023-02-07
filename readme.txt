@@ -8,7 +8,7 @@ Plans for the future:
 5.Add switching to Russian language
 
 Demonstation
-![alt text](https://imgur.com/a/W62l566)
+<img src="https://imgur.com/a/W62l566"/>
 
 Installation:
 npm i
